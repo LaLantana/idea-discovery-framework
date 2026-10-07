@@ -1,5 +1,3 @@
-<!-- v3 dry-run build (2026-10-06). Built from idea-discovery-workspace/_v3-drafts/; edit the drafts, not this copy. -->
-
 # Idea Discovery Rubric
 
 ## Purpose

@@ -3,8 +3,6 @@ name: idea-discovery
 description: Run the Idea Discovery Framework ONLY when the user explicitly asks to run it, by naming the skill or the framework (e.g., "run idea discovery", "run the framework on this", "/idea-discovery") or by attaching a filled-in 00-entry.md and asking to run it. Do NOT use it for exploratory questions, brainstorming, opinions on an idea or problem, market questions, or discussion or maintenance of the framework itself, even when they are about ideas or problems; answer those normally. When run, it researches a potential problem, defines the problem worth solving, generates and screens ideas, and evaluates up to three of them, ending in a verdict per idea.
 ---
 
-<!-- v3 dry-run build (2026-10-06), installed for the dry runs. Built from idea-discovery-workspace/_v3-drafts/; edit the drafts, not this copy. -->
-
 # Idea Discovery Skill
 
 ## What this skill does
